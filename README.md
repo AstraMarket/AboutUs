@@ -15,5 +15,5 @@
 ![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/apple-pay.svg) 
 <br></br>
 <div align="center">
-Выше указанные логотипы принадлежат ООО КИВИ БАНК.
+Выше указанные логотипы принадлежат ООО КИВИ БАНК
 </div>
