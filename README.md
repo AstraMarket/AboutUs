@@ -7,4 +7,9 @@
 > Мы используем платёжную систему [QIWI](https://qiwi.com) для проведения платежей. **Наша** коммисия составляет 10-20% (100 рублей - 10 рублей коммисия)
 > ### А почему коммисия?
 > На жизнь разобратчику ;)
-![о](https://) 
+>
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
