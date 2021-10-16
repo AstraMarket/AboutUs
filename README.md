@@ -9,7 +9,7 @@
 > На жизнь разобратчику ;)
 >
 ![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
-![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
-![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
-![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
-![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/pci.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/mir-accept.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/visa-secured.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/ms-id-check.svg) 
+![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/apple-pay.svg) 
