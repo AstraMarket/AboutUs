@@ -13,3 +13,7 @@
 ![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/visa-secured.svg) 
 ![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/ms-id-check.svg) 
 ![КИВИ](https://static.qiwi.com/img/qiwi_com/footer/security/apple-pay.svg) 
+<br></br>
+<div align="center">
+Выше указанные логотипы принадлежат ООО КИВИ БАНК.
+</div>
